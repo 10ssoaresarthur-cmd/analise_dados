@@ -27,7 +27,4 @@ dict_mista= {
 
 dict_mista[1]
 
-import os
-import requests
-import pandas as pd
-import matplotlib.pyplot as plt
+
