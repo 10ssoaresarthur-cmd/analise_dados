@@ -16,7 +16,7 @@
 # Payment Method → Método de pagamento
 # Questões:
 # (0,5) 1 - Quantas corridas estão com Status da Corrida como Completada ("Completed") no dataset? 
-import pandas as pd 
+import pandas as pd
 df = pd.read_csv("ncr_ride_bookings.csv")  
 filtro = (df['Booking Status'])
 
